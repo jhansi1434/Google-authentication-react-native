@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188749471774",
+    "project_id": "expo-33747",
+    "storage_bucket": "expo-33747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188749471774:android:895a671a2dc853e8710e0f",
+        "android_client_info": {
+          "package_name": "com.googleauth.Googleexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188749471774-mnlpa09lk2hi7kb4i0nvg5p59b71n7kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleauth.Googleexpo",
+            "certificate_hash": "0f5a936e362389728050621f0beccc282703f355"
+          }
+        },
+        {
+          "client_id": "188749471774-beaqv66ld59kt847ak7ak1bmrhg7s95t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5srU-Fm-7p90IR50cof3WI8B_J3LNUzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188749471774-beaqv66ld59kt847ak7ak1bmrhg7s95t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
